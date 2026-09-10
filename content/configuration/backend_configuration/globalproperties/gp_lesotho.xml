@@ -5,8 +5,8 @@
             <value>en</value>
         </globalProperty>
         <globalProperty>
-        <property>locale.allowed.list</property>
-        <value>en</value>
+            <property>locale.allowed.list</property>
+            <value>en</value>
         </globalProperty>
     </globalProperties>
 </config>

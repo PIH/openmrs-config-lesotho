@@ -70,6 +70,13 @@
             <value>60e6cd5a-3070-4b41-a36d-4730d4e85733</value>
         </globalProperty>
 
+        <!-- TODO: refactor/change this once we refactor how order number generation works -->
+        <globalProperty>
+            <property>order.orderNumberGeneratorBeanId</property>
+            <value>order.radiologyOrderNumberGenerator</value>
+        </globalProperty>
+
+
         <!-- TODO: update with name and contact info of current Rad Tech -->
         <globalProperty>
             <property>radiologyapp.leadRadiologyTechName</property>
